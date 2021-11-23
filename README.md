@@ -4,7 +4,7 @@ The quick scraping project is about delivering a brief report on a free topic in
 
 For this matter I chose to scrape the Lega Serie A (italian soccer league) standings from 2003 to 2020, using Selenium. Then I cleaned and structured the data to represent it in a few visuals.
 
-Please open the Jupyter Notebook: 'Serie A Report' to follow the conclusions.
+Please open the 'md' file 'Serie A Report' to follow the conclusions.
 
 Programming language: Python.
 
